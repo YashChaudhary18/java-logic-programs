@@ -1,4 +1,4 @@
-1.Anagram Checker in Java
+1. Anagram Checker in Java
 📌 Overview :
 This Java program checks whether two input strings are anagrams of each other.
 Two strings are called anagrams if they contain the same characters with the same frequency but arranged in a different order.
@@ -20,7 +20,7 @@ If both arrays are equal → the strings are anagrams.
 
 ---
 
-2.Find Longest Word in a Sentence (Java)
+2. Find Longest Word in a Sentence (Java)
 
 📌 Overview :
 This Java program finds the longest word in a given sentence.
@@ -35,7 +35,7 @@ Steps used in the program:
 5. Store the word with the maximum length.
 
 ---
-3.Remove All Spaces from a String (Java)
+3. Remove All Spaces from a String (Java)
 
 📌 Overview :
 This Java program removes all spaces from a given string.
