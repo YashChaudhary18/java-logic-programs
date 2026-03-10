@@ -1,5 +1,6 @@
 1. Swap Two Numbers Without Third Variable (Java)
-📌 Overview :
+
+Overview :
 This Java program swaps two numbers without using a third variable.
 Swapping means exchanging the values of two variables.
 Example:
@@ -10,7 +11,7 @@ After Swap
 a = 20
 b = 10
 
-🧠 Program Logic
+Program Logic :
 The program uses addition and subtraction operations to swap numbers.
 Steps:
 1. Add both numbers and store in a.
