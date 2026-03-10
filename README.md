@@ -15,16 +15,16 @@ Swap two numbers without using a third variable
 📂 Project Structure
 java-logic-programs
 arrays
-│   ArrayRotation.java
-│   MissingNumber.java
-│   SecondLargestNumber.java
+│   └── ArrayRotation.java
+│   └── MissingNumber.java
+│   └── SecondLargestNumber.java
 │
 strings
-│   AnagramCheck.java
-│   LongestWordFinder.java
-│   RemoveSpaces.java
+│   └── AnagramCheck.java
+│   └── LongestWordFinder.java
+│   └── RemoveSpaces.java
 │
 numbers
-│   SwapTwoNumber.java
+│   └── SwapTwoNumber.java
 │
 └── README.md
