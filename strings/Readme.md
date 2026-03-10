@@ -58,7 +58,7 @@ The program performs the following steps:
 
 ---
 
-4.Check Balanced Parentheses (Java)
+4. Check Balanced Parentheses (Java)
 \
 Overview :
 This Java program checks whether the parentheses in a given string are balanced.
@@ -83,3 +83,48 @@ The program uses a Stack data structure.
 5. Pop the top element.
 6. Verify if it matches the closing bracket.
 7. After traversal, if the stack is empty → parentheses are balanced.
+
+---
+
+5. Count Words in a Sentence (Java)
+
+Overview :
+This Java program counts the number of words in a sentence entered by the user.
+The program reads a sentence, splits it into words using spaces, and prints the total word count.
+
+Example :
+Input
+Enter a sentence:
+Java programming is very powerful
+Output
+Total words in sentence:
+5
+
+Logic Used :
+1. Take a sentence as input.
+2. Remove extra spaces using trim().
+3. Split the sentence using split("\\s+").
+4. Count the number of words using the array length.
+
+---
+6. Print Duplicate Characters in a String (Java)
+
+Overview :
+This Java program prints duplicate characters present in a string along with their frequency.
+A duplicate character is a character that appears more than once in the string.
+
+Example :
+Input
+programming
+Output
+Duplicate characters are:
+r : 2
+g : 2
+m : 2
+
+Logic Used :
+1. Convert the string to lowercase.
+2. Convert the string into a character array.
+3. Compare each character with the remaining characters.
+4. Count occurrences of each character.
+5. Print characters whose count is greater than 1.
