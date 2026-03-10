@@ -1,4 +1,4 @@
-1.Rotate Array by K Positions (Java)
+1. Rotate Array by K Positions (Java)
 📌 Overview :
 This Java program rotates an array by k positions to the left.
 Array rotation means shifting the elements of an array by a given number of positions.
@@ -19,7 +19,7 @@ Print the rotated array.
 
 ---
 
-2.Find Missing Numbers from 1 to 100 (Java)
+2. Find Missing Numbers from 1 to 100 (Java)
 📌 Overview :
 This Java program finds missing numbers from 1 to 100.
 The user can enter numbers continuously.
@@ -32,7 +32,7 @@ Tracks numbers using a boolean array
 Prints all numbers missing from the range 1–100
 
 ---
-3.Second Largest Number in an Array (Java)
+3. Second Largest Number in an Array (Java)
 📌 Overview :
 This Java program finds the second largest number in an array entered by the user.
 The program:
