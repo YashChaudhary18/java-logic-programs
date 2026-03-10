@@ -13,13 +13,14 @@ Program Logic :
 The program performs the following
 
 steps:
-Take the array size from the user.
-Accept array elements as input.
-Ask the user for rotation value k.
-Adjust k using k % n to handle cases where k > n.
-Copy elements from index k to the end into a new array.
-Copy the first k elements to the end of the new array.
-Print the rotated array.
+
+1. Take the array size from the user.
+2. Accept array elements as input.
+3. Ask the user for rotation value k.
+4. Adjust k using k % n to handle cases where k > n.
+5. Copy elements from index k to the end into a new array.
+6. Copy the first k elements to the end of the new array.
+7. Print the rotated array.
 
 ---
 
