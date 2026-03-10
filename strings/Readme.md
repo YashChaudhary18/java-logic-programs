@@ -9,15 +9,15 @@ evil and vile → Anagram
 hello and world → Not Anagram
 
 Program Logic :
-The program follows these steps:
-Take two strings as input from the user.
-Convert both strings to lowercase to avoid case mismatch (A vs a).
-Check if the lengths are equal.
-If not equal → they cannot be anagrams.
-Convert both strings into character arrays.
-Sort both arrays using Arrays.sort().
-Compare both arrays using Arrays.equals().
-If both arrays are equal → the strings are anagrams.
+The program follows these steps
+1. Take two strings as input from the user.
+2. Convert both strings to lowercase to avoid case mismatch (A vs a).
+3. Check if the lengths are equal.
+4. If not equal → they cannot be anagrams.
+5. Convert both strings into character arrays.
+6. Sort both arrays using Arrays.sort().
+7. Compare both arrays using Arrays.equals().
+8. If both arrays are equal → the strings are anagrams.
 
 ---
 
@@ -27,8 +27,8 @@ Overview :
 This Java program finds the longest word in a given sentence.
 The program takes a sentence from the user, splits it into words, and determines which word has the greatest length.
 
-Program Logic :
-Steps used in the program:
+Program Logic : Steps used in the program
+
 1. Take a sentence as input from the user.
 2. Split the sentence into words using the "split()" method.
 3. Traverse through each word.
@@ -48,8 +48,8 @@ Java programming language
 Output
 Javaprogramminglanguage
 
-Program Logic :
-The program performs the following steps:
+Program Logic : The program performs the following steps
+
 1. Take a string input from the user.
 2. Traverse each character of the string.
 3. Check whether the character is a space.
