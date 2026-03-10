@@ -10,6 +10,8 @@ Find longest word in a sentence
 Remove all spaces from a string
 Numbers
 Swap two numbers without using a third variable
+
+
 📂 Project Structure
 java-logic-programs
 │
