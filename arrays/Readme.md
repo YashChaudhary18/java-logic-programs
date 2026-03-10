@@ -10,7 +10,9 @@ Rotate by k = 2
 Result: [3, 4, 5, 1, 2]
 
 Program Logic :
-The program performs the following steps:
+The program performs the following
+
+steps:
 Take the array size from the user.
 Accept array elements as input.
 Ask the user for rotation value k.
@@ -52,6 +54,7 @@ Logic Used :
 The program maintains two variables:
 largest
 secondLargest
+
 Steps:
 1. Traverse the array.
 2. If the current number is greater than largest: Move largest to secondLargest Update largest.
