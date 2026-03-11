@@ -1,12 +1,12 @@
 Java Logic & OOP Practice Programs
 
-This repository contains a collection of Core Java logic programs and Object-Oriented Programming (OOP) examples created for practice and learning.
+This repository contains a collection of Core Java logic programs, Object-Oriented Programming (OOP) examples, and Java Collections practice problems created for learning and improving programming skills.
 
-The programs cover topics such as arrays, strings, number-based logic, and OOP concepts like inheritance, abstraction, and interfaces.
+The programs cover topics such as arrays, strings, number logic, OOP concepts, and advanced collections operations.
 
 ---
 
- Topics Covered :
+Topics Covered :
 
 Arrays
 
@@ -34,9 +34,16 @@ OOP Practice
 - Abstract class "Shape" with "area()" method
 - Interface example "PaymentMethod"
 
+Collections Advanced
+
+- Find top 3 highest marks from Student list
+- Convert List → Set → List removing duplicates
+- Sort Employee list by salary descending
+- Group students by marks using HashMap
+
 ---
 
-Project Structure :
+📂 Project Structure
 
 java-logic-programs
 │
@@ -62,4 +69,11 @@ java-logic-programs
 │   ├── AbstractShapeExample.java
 │   └── PaymentInterfaceExample.java
 │
+├── collections
+│   ├── TopStudents.java
+│   ├── RemoveDuplicatesExample.java
+│   ├── SortEmployeeBySalary.java
+│   └── GroupStudentsByMarks.java
+│
 └── README.md
+
