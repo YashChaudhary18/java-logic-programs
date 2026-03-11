@@ -54,3 +54,22 @@ Concepts Practiced :
 - Comparator
 - Lambda expressions
 - Sorting custom objects
+
+---
+
+4. Group Students by Marks (HashMap)
+
+Overview :
+
+This Java program groups students by their marks using a "HashMap".
+
+The program first displays all students and then groups them based on their marks.
+
+
+Concepts Practiced :
+
+- Java Collections Framework
+- HashMap
+- ArrayList
+- Map.Entry iteration
+- Grouping data
