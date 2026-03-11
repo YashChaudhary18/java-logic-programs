@@ -15,5 +15,23 @@ Concepts Practiced :
 - Lambda expressions
 - Working with custom objects
 
+---
 
-2.
+2. Convert List → Set → List (Remove Duplicates)
+
+Overview :
+
+This Java program demonstrates how to remove duplicate elements from a list using the Java Collections Framework.
+
+The program converts a List to a Set and then converts the Set back to a List.
+
+Since a Set does not allow duplicate elements, this automatically removes duplicates.
+
+
+Concepts Practiced :
+
+- Java Collections Framework
+- ArrayList
+- HashSet
+- Collection conversion
+- Duplicate removal
