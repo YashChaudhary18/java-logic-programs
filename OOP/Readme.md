@@ -11,7 +11,7 @@ It includes two classes:
 
 The program allows basic operations such as displaying book details, issuing a book, and returning a book.
 
----
+
 
 Classes Used :
 
@@ -41,7 +41,7 @@ Methods :
 
 - displayMember()
 
----
+
 
 Concepts Practiced :
 
@@ -50,6 +50,7 @@ Concepts Practiced :
 - Constructors
 - Method implementation
 
+---
 
 2. Vehicle Inheritance Example (Java OOP)
 
@@ -59,7 +60,7 @@ This program demonstrates inheritance in Java using a Vehicle base class and two
 
 Inheritance allows a child class to reuse the properties and methods of a parent class.
 
----
+
 
 Class Structure : 
 
@@ -86,7 +87,7 @@ Additional attribute
 
 - hasGear
 
----
+
 
 Concepts Practiced : 
 
