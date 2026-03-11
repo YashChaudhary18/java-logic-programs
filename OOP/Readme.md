@@ -95,3 +95,64 @@ Concepts Practiced :
 - Parent and Child Classes
 - Constructor chaining using "super"
 - Method reuse
+
+---
+
+3. Abstract Shape Example (Java OOP)
+
+Overview
+
+This program demonstrates abstraction in Java using an abstract class.
+
+An abstract class "Shape" defines an abstract method "area()".
+Child classes such as Circle and Rectangle extend the "Shape" class and provide their own implementation of the "area()" method.
+
+The program allows the user to input dimensions and calculates the area of the selected shape.
+
+
+
+Class Structure
+
+Shape (abstract class)
+   |
+   ├── Circle
+   └── Rectangle
+
+Shape :
+
+Abstract base class containing:
+
+- "area()" → abstract method to calculate area
+
+Circle :
+
+Attributes:
+
+- radius
+
+Formula:
+
+Area = π × r²
+
+Rectangle :
+
+Attributes:
+
+- length
+- width
+
+Formula:
+
+Area = length × width
+
+
+
+Concepts Practiced :
+
+- Abstract classes
+- Abstract methods
+- Inheritance
+- Method implementation in child classes
+- User input using Scanner
+- Basic Object-Oriented Programming (OOP)
+
