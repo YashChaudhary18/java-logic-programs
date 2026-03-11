@@ -35,3 +35,22 @@ Concepts Practiced :
 - HashSet
 - Collection conversion
 - Duplicate removal
+
+---
+
+3. Sort Employee List by Salary (Descending)
+
+Overview :
+
+This Java program sorts a list of employees by salary in descending order.
+
+The program first displays all employees in their original order and then sorts them based on salary.
+
+
+Concepts Practiced :
+
+- Java Collections Framework
+- ArrayList
+- Comparator
+- Lambda expressions
+- Sorting custom objects
