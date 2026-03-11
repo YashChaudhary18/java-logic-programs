@@ -65,13 +65,13 @@ java-logic-programs
 │
 ├── oop
 │   ├── LibraryManagementSystem.java
-│   ├── InheritanceExample.java
-│   ├── AbstractShapeExample.java
-│   └── PaymentInterfaceExample.java
+│   ├── Inheritance.java
+│   ├── AbstractShape.java
+│   └── PaymentInterface.java
 │
 ├── collections
 │   ├── TopStudents.java
-│   ├── RemoveDuplicatesExample.java
+│   ├── RemoveDuplicates.java
 │   ├── SortEmployeeBySalary.java
 │   └── GroupStudentsByMarks.java
 │
