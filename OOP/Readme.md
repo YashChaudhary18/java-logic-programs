@@ -1,6 +1,6 @@
 1. Library Management System (Java OOP)
 
-Overview
+Overview :
 
 This program demonstrates a simple Library Management System using Object-Oriented Programming in Java.
 
@@ -13,18 +13,18 @@ The program allows basic operations such as displaying book details, issuing a b
 
 ---
 
-Classes Used
+Classes Used :
 
 Book
 
-Attributes:
+Attributes :
 
 - bookId
 - title
 - author
 - isIssued
 
-Methods:
+Methods :
 
 - displayBook()
 - issueBook()
@@ -32,22 +32,65 @@ Methods:
 
 Member
 
-Attributes:
+Attributes :
 
 - memberId
 - name
 
-Methods:
+Methods :
 
 - displayMember()
 
 ---
 
-Concepts Practiced
+Concepts Practiced :
 
 - Object-Oriented Programming
 - Classes and Objects
 - Constructors
 - Method implementation
 
-  2. 
+
+2. Vehicle Inheritance Example (Java OOP)
+
+Overview : 
+
+This program demonstrates inheritance in Java using a Vehicle base class and two derived classes: Car and Bike.
+
+Inheritance allows a child class to reuse the properties and methods of a parent class.
+
+---
+
+Class Structure : 
+
+Vehicle (Parent Class)
+
+Attributes :
+
+- brand
+- speed
+
+Methods :
+
+- displayVehicle()
+
+Car (Child Class)
+
+Additional attribute
+
+- doors
+
+Bike (Child Class)
+
+Additional attribute
+
+- hasGear
+
+---
+
+Concepts Practiced : 
+
+- Inheritance
+- Parent and Child Classes
+- Constructor chaining using "super"
+- Method reuse
