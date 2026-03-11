@@ -65,7 +65,7 @@ java-logic-programs
 │
 ├── oop
 │   ├── LibraryManagementSystem.java
-│   ├── Inheritance.java
+│   ├── InheritanceExample.java
 │   ├── AbstractShape.java
 │   └── PaymentInterface.java
 │
