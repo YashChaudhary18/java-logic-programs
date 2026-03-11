@@ -156,3 +156,41 @@ Concepts Practiced :
 - User input using Scanner
 - Basic Object-Oriented Programming (OOP)
 
+---
+
+4. Payment Method Interface Example (Java)
+
+Overview :
+
+This program demonstrates the use of interfaces in Java.
+
+An interface "PaymentMethod" defines a method "pay()".
+Different classes implement this interface to provide different payment options.
+
+
+
+
+Class Structure :
+
+PaymentMethod (Interface)
+
+Methods:
+
+- pay(double amount)
+
+Implementing Classes:
+
+- CreditCard
+- UPI
+
+Each class defines its own implementation of the "pay()" method.
+
+
+
+Concepts Practiced :
+
+- Interface in Java
+- Implementation of interface
+- Polymorphism
+- Method overriding
+
