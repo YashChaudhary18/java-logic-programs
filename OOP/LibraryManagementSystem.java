@@ -1,3 +1,4 @@
+/* Create Library Management System classes (Book, Member). */
 class Book {
 
     // Attributes of Book
