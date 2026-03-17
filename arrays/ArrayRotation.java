@@ -1,3 +1,4 @@
+/* Rotate array by k positions.*/  
 import java.util.Scanner;
 
 public class ArrayRotation {
