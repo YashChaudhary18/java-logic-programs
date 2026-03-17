@@ -1,3 +1,4 @@
+/* Implement interface PaymentMethod. */
 import java.util.Scanner;
 
 // Interface
