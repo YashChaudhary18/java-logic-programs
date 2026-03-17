@@ -1,3 +1,5 @@
+/* Find second largest number in array. */
+
 import java.util.Scanner;
 
 public class SecondLargestNumber {
