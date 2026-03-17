@@ -1,3 +1,4 @@
+/* Count words in sentence. */
 import java.util.Scanner;
 
 public class WordCount {
