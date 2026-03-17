@@ -1,3 +1,4 @@
+/* Group students by marks using HashMap. */
 import java.util.*;
 
 // Student class
