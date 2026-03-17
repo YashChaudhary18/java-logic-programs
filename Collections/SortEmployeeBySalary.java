@@ -1,3 +1,4 @@
+/* Sort Employee list by salary descending. */
 import java.util.*;
 
 // Employee class
