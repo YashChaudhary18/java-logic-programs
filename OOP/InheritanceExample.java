@@ -1,3 +1,4 @@
+/* Create Vehicle → Car/Bike inheritance example. */
 package OOP;
 // Parent class
 class Vehicle {
