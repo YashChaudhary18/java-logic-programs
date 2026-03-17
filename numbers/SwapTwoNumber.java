@@ -1,3 +1,4 @@
+/* Program to swap two numbers without third variable. */
 import java.util.Scanner;
 
 public class SwapTwoNumber {
