@@ -1,3 +1,4 @@
+/* Find longest word in a sentence. */
 import java.util.Scanner;
 
 public class LongestWordFinder {
