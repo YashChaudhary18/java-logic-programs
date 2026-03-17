@@ -1,3 +1,4 @@
+/* Print duplicate characters in string. */
 import java.util.Scanner;
 
 public class DuplicateCharacters {
