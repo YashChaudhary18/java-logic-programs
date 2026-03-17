@@ -1,4 +1,4 @@
-
+/* Create abstract class Shape with area() method. */
 import java.util.Scanner;
 
 // Abstract class
