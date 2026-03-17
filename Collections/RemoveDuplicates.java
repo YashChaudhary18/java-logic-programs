@@ -1,3 +1,4 @@
+/* Convert List → Set → List removing duplicates. */
 import java.util.*;
 
 public class RemoveDuplicates {
