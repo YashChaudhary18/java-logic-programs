@@ -1,3 +1,4 @@
+/* Remove all spaces from a string. */
 import java.util.Scanner;
 
 public class RemoveSpaces {
